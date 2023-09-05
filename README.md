@@ -7,7 +7,7 @@ the frequency of tropical cyclones (TCs), but increases the frequency of intense
 difficult for people to plan for natural catastrophes like TCs, which severely damage
 infrastructure and do great harm to people. A behavioral shift in TCs could directly
 increase the economic harm they cause, from $28 billion in 2010 to $68 billion by 2100,
-according to the World Bank's 2012 annual report [3]. The NHC forecasts tropical
+according to the World Bank's 2012 annual report. The NHC forecasts tropical
 cyclone intensity, magnitude, and structure as well as rainfall, tropical cyclones
 associated with hurricanes, and the likelihood of tropical cyclones within 48 hours
 ## Problem Statement:
